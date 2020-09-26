@@ -12,10 +12,18 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 🌱🌱🌱<b><i>Currently (and future) learning:</i></b>
 <table style="width:300px">
   <tr>
-    <td text-align="left">Back-End Development                                    </td>
+    <td text-align="left">Back-End Development / Database                           </td>
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>
+      <img src="logo-200px/javascript.png" width="50">
+      <img src="logo-200px/nodejs.png" width="50">
+      <img src="logo-200px/php.png" width="50">
+      <img src="logo-200px/laravel.png" width="50">
+      <img src="logo-200px/mongodb.png" width="50">
+      <img src="logo-200px/mysql.png" width="50">
+      <img src="logo-200px/Postgresql.png" width="50">
+    </td>
   </tr>
 </table>
 
@@ -24,7 +32,13 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
     <td text-align="left">Front-End Development                                    </td>
   </tr>
   <tr>
-    <td><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </td>
+    <td>
+      <img src="logo-200px/html5.png" width="50">
+      <img src="logo-200px/css.png" width="50">
+      <img src="logo-200px/bootstrap4.png" width="50">
+      <img src="logo-200px/vuejs.png" width="50">
+      <img src="logo-200px/tailwindcss.png" width="50">
+    </td>
   </tr>
 </table>
 
@@ -33,7 +47,11 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
     <td>Other Tools                                              </td>
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>
+      <img src="logo-200px/vscode.png" width="50">
+      <img src="logo-200px/github.png" width="50">
+      <img src="logo-200px/git.png" width="50">
+    </td>
   </tr>
 </table>
 <!--
