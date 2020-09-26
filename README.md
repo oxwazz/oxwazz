@@ -13,7 +13,32 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 
 🌱 **Learning:**
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+  </tr>
+</table>
 
+<table style="width:100%">
+  <tr>
+    <th text-align="left">Firstname</th>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+  </tr>
+</table>
 <!--
 **oxwazz/oxwazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
