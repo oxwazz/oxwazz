@@ -11,9 +11,9 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
 )](mailto:muhammad.rahmahalim@gmail.com)
 <hr>
 
-#### working with: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+#### working with:
 
-#### learning: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+#### learning:
 
 
 <!--
