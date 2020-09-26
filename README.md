@@ -10,9 +10,9 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 ===============
 
 🌱 **Currently (and future) learning:**
-<table style="width:100%">
+<table style="width:300px">
   <tr>
-    <td text-align="left">Back-End Development</td>
+    <td text-align="left">Back-End Development                                       </td>
   </tr>
   <tr>
     <td>Jill</td>
@@ -21,7 +21,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 
 <table style="width:100%">
   <tr>
-    <td text-align="left">Front-End Development</td>
+    <td text-align="left">Front-End Development                                       </td>
   </tr>
   <tr>
     <td><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </td>
@@ -30,7 +30,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 
 <table style="width:100%">
   <tr text-align="left">
-    <td>Other Tools</td>
+    <td>Other Tools                                                 </td>
   </tr>
   <tr>
     <td>Jill</td>
