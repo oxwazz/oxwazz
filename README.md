@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rahmahalim@gmail.com)](mailto:muhammad.rahmahalim@gmail.com)
 ===============
 
-🌱 **Currently (and future) learning:**
+🌱🌱🌱<b><i>Currently (and future) learning:</i></b>
 <table style="width:300px">
   <tr>
     <td text-align="left">Back-End Development                                    </td>
