@@ -1,12 +1,8 @@
 # Hi, I'm <a href="https://github.com/oxwazz">Muhammad Rahmahalim</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">
 <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" />
 
-<div align="left">
-  <p style='text-align: justify;'>I'm a <b>Full Stack Developer</b> 🚀 from Indonesia. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.</p>
-</div>
 ### A little about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
-
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/oxwazz)](https://github.com/oxwazz)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/oxwazz)](https://www.hackerrank.com/oxwazz)
