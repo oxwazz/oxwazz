@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rahmahalim@gmail.com)](mailto:muhammad.rahmahalim@gmail.com)
 ===============
 
-🌱🌱🌱<b><i>Currently (and future) learning:</i></b>
+🌱 <b><i>Currently (and future) learning:</i></b> 🌱
 <table style="width:300px">
   <tr>
     <td text-align="left">Back-End Development / Database                           </td>
@@ -55,18 +55,3 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
     </td>
   </tr>
 </table>
-<!--
-**oxwazz/oxwazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
