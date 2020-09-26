@@ -17,11 +17,12 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
   <tr>
     <td>
       <img src="logo-200px/javascript.png" width="50">
-      <img src="logo-200px/nodejs.png" width="50">
+      <img src="logo-200px/nodejs.png" width="45">
       <img src="logo-200px/php.png" width="50">
       <img src="logo-200px/laravel.png" width="50">
-      <img src="logo-200px/mongodb.png" width="50">
-      <img src="logo-200px/mysql.png" width="50">
+      <br>
+      <img src="logo-200px/mongodb.png" width="100">
+      <img src="logo-200px/mysql.png" width="100">
       <img src="logo-200px/Postgresql.png" width="50">
     </td>
   </tr>
@@ -33,11 +34,11 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
   </tr>
   <tr>
     <td>
-      <img src="logo-200px/html5.png" width="50">
-      <img src="logo-200px/css.png" width="50">
+      <img src="logo-200px/html5.png" width="40">
+      <img src="logo-200px/css.png" width="40">
+      <img src="logo-200px/vuejs.png" width="57">
       <img src="logo-200px/bootstrap4.png" width="50">
-      <img src="logo-200px/vuejs.png" width="50">
-      <img src="logo-200px/tailwindcss.png" width="50">
+      <img src="logo-200px/tailwindcss.png" width="70">
     </td>
   </tr>
 </table>
@@ -49,8 +50,8 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
   <tr>
     <td>
       <img src="logo-200px/vscode.png" width="50">
-      <img src="logo-200px/github.png" width="50">
-      <img src="logo-200px/git.png" width="50">
+      <img src="logo-200px/github.png" width="140">
+      <img src="logo-200px/git.png" width="100">
     </td>
   </tr>
 </table>
