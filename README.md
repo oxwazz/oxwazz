@@ -10,9 +10,9 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
 )](mailto:muhammad.rahmahalim@gmail.com)
 ===============
 
-#### working with:
+**Working with:**
 
-#### learning:
+**Learning:**
 
 
 <!--
