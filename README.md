@@ -1,4 +1,4 @@
-# Hi, i'm Muhammad Rahmahalim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+# Hi, I'm Halim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" />
 
@@ -9,8 +9,11 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oxwazz/)](https://www.linkedin.com/in/oxwazz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rahmahalim@gmail.com
 )](mailto:muhammad.rahmahalim@gmail.com)
+<br>
 
-## Hi, i'm Muhammad Rahmahalim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+#### working with: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+#### learning: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 
 <!--
