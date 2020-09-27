@@ -21,7 +21,8 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
       <img src="logo-200px/nodejs.png" width="25">
       <img src="logo-200px/php.png" width="40">
       <img src="logo-200px/laravel.png" width="30">
-<!--       <br> -->
+      <img src="logo-200px/python.png" width="30">
+      <img src="logo-200px/golang.png" width="22">
       <img src="logo-200px/mongodb.png" width="80">
       <img src="logo-200px/mysql.png" width="60">
       <img src="logo-200px/Postgresql.png" width="30">
