@@ -8,21 +8,23 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oxwazz/)](https://www.linkedin.com/in/oxwazz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rahmahalim@gmail.com)](mailto:muhammad.rahmahalim@gmail.com)
 ===============
+<br>
 
-🌱🌱🌱<b><i>Currently (and future) learning:</i></b>
+🌱 <b><i>Currently (and future) learning:</i></b> 🌱
 <table style="width:300px">
   <tr>
     <td text-align="left">Back-End Development / Database                           </td>
   </tr>
   <tr>
     <td>
-      <img src="logo-200px/javascript.png" width="50">
-      <img src="logo-200px/nodejs.png" width="50">
-      <img src="logo-200px/php.png" width="50">
-      <img src="logo-200px/laravel.png" width="50">
-      <img src="logo-200px/mongodb.png" width="50">
-      <img src="logo-200px/mysql.png" width="50">
-      <img src="logo-200px/Postgresql.png" width="50">
+      <img src="logo-200px/javascript.png" width="30">
+      <img src="logo-200px/nodejs.png" width="25">
+      <img src="logo-200px/php.png" width="40">
+      <img src="logo-200px/laravel.png" width="30">
+<!--       <br> -->
+      <img src="logo-200px/mongodb.png" width="80">
+      <img src="logo-200px/mysql.png" width="60">
+      <img src="logo-200px/Postgresql.png" width="30">
     </td>
   </tr>
 </table>
@@ -33,10 +35,10 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
   </tr>
   <tr>
     <td>
-      <img src="logo-200px/html5.png" width="50">
-      <img src="logo-200px/css.png" width="50">
-      <img src="logo-200px/bootstrap4.png" width="50">
-      <img src="logo-200px/vuejs.png" width="50">
+      <img src="logo-200px/html5.png" width="25">
+      <img src="logo-200px/css.png" width="25">
+      <img src="logo-200px/vuejs.png" width="37">
+      <img src="logo-200px/bootstrap4.png" width="30">
       <img src="logo-200px/tailwindcss.png" width="50">
     </td>
   </tr>
@@ -48,24 +50,9 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
   </tr>
   <tr>
     <td>
-      <img src="logo-200px/vscode.png" width="50">
-      <img src="logo-200px/github.png" width="50">
-      <img src="logo-200px/git.png" width="50">
+      <img src="logo-200px/vscode.png" width="25">
+      <img src="logo-200px/github.png" width="85">
+      <img src="logo-200px/git.png" width="60">
     </td>
   </tr>
 </table>
-<!--
-**oxwazz/oxwazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
