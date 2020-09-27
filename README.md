@@ -16,14 +16,14 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
   </tr>
   <tr>
     <td>
-      <img src="logo-200px/javascript.png" width="50">
-      <img src="logo-200px/nodejs.png" width="45">
-      <img src="logo-200px/php.png" width="50">
-      <img src="logo-200px/laravel.png" width="50">
-      <br>
-      <img src="logo-200px/mongodb.png" width="100">
-      <img src="logo-200px/mysql.png" width="100">
-      <img src="logo-200px/Postgresql.png" width="50">
+      <img src="logo-200px/javascript.png" width="30">
+      <img src="logo-200px/nodejs.png" width="25">
+      <img src="logo-200px/php.png" width="40">
+      <img src="logo-200px/laravel.png" width="30">
+<!--       <br> -->
+      <img src="logo-200px/mongodb.png" width="80">
+      <img src="logo-200px/mysql.png" width="80">
+      <img src="logo-200px/Postgresql.png" width="30">
     </td>
   </tr>
 </table>
@@ -34,11 +34,11 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
   </tr>
   <tr>
     <td>
-      <img src="logo-200px/html5.png" width="40">
-      <img src="logo-200px/css.png" width="40">
-      <img src="logo-200px/vuejs.png" width="57">
-      <img src="logo-200px/bootstrap4.png" width="50">
-      <img src="logo-200px/tailwindcss.png" width="70">
+      <img src="logo-200px/html5.png" width="25">
+      <img src="logo-200px/css.png" width="25">
+      <img src="logo-200px/vuejs.png" width="37">
+      <img src="logo-200px/bootstrap4.png" width="30">
+      <img src="logo-200px/tailwindcss.png" width="50">
     </td>
   </tr>
 </table>
@@ -49,9 +49,9 @@ I'm a **Full Stack Developer** ðŸš€ from Indonesia. I'm a **Tech Enthusiast** ðŸ
   </tr>
   <tr>
     <td>
-      <img src="logo-200px/vscode.png" width="50">
-      <img src="logo-200px/github.png" width="140">
-      <img src="logo-200px/git.png" width="100">
+      <img src="logo-200px/vscode.png" width="25">
+      <img src="logo-200px/github.png" width="85">
+      <img src="logo-200px/git.png" width="60">
     </td>
   </tr>
 </table>
