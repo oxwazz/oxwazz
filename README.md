@@ -13,7 +13,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 🌱 <b><i>Currently (and future) learning:</i></b> 🌱
 <table style="width:300px">
   <tr>
-    <td text-align="left">Back-End Development / Database                           </td>
+    <td text-align="left">Back-End Development / Database                         </td>
   </tr>
   <tr>
     <td>
