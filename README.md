@@ -13,7 +13,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 🌱 <b><i>Currently (and future) learning:</i></b> 🌱
 <table style="width:300px">
   <tr>
-    <td text-align="left">Back-End Development / Database                         </td>
+    <td text-align="left">Back-End Development / Database                       </td>
   </tr>
   <tr>
     <td>
@@ -32,7 +32,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 
 <table style="width:100%">
   <tr>
-    <td text-align="left">Front-End Development                                  </td>
+    <td text-align="left">Front-End Development                                </td>
   </tr>
   <tr>
     <td>
@@ -47,7 +47,7 @@ I'm a **Full Stack Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 
 <table style="width:100%">
   <tr text-align="left">
-    <td>Other Tools                                            </td>
+    <td>Other Tools                                          </td>
   </tr>
   <tr>
     <td>
