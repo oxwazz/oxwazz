@@ -1,5 +1,4 @@
-## Hi, I'm [Muhammad Rahmahalim](https://github.com/oxwazz) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" />
+## Hi, I'm [Muhammad Rahmahalim](https://github.com/oxwazz) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 I'm a **Front-End Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** 💻 😁 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
 
@@ -10,49 +9,50 @@ I'm a **Front-End Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** �
 <br>
 
 🌱 <b><i>Currently (and future) learning:</i></b> 🌱
-<table style="width:300px">
-  <tr>
-    <td text-align="left">Back-End Development / Database                       </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="logo-200px/javascript.png" width="30">
-      <img src="logo-200px/nodejs.png" width="25">
-      <img src="logo-200px/php.png" width="40">
-      <img src="logo-200px/laravel.png" width="30">
-      <img src="logo-200px/python.png" width="30">
-      <img src="logo-200px/golang.png" width="22">
-      <img src="logo-200px/mongodb.png" width="80">
-      <img src="logo-200px/mysql.png" width="60">
-      <img src="logo-200px/Postgresql.png" width="30">
-    </td>
-  </tr>
+<table>
+   <tr>
+      <td style="vertical-align:top">
+         <table style="width:100%" >
+            <tr>
+               <td>Programming Language                                 </td>
+            </tr>
+            <tr>
+               <td>
+                  <img src="logo-200px/javascript.png" width="30">
+               </td>
+            </tr>
+         </table>
+         <table style="width:100%">
+            <tr>
+               <td>Front-End Development                                 </td>
+            </tr>
+            <tr>
+               <td>
+                  <img src="logo-200px/html5.png" width="25">
+                  <img src="logo-200px/css.png" width="25">
+                  <img src="logo-200px/vuejs.png" width="37">
+                  <img src="logo-200px/bootstrap4.png" width="30">
+                  <img src="logo-200px/tailwindcss.png" width="50">
+               </td>
+            </tr>
+         </table>
+         <table style="width:100%">
+            <tr>
+               <td>Other Tools                                           </td>
+            </tr>
+            <tr>
+               <td>
+                  <img src="logo-200px/vscode.png" width="25">
+                  <img src="logo-200px/github.png" width="85">
+                  <img src="logo-200px/git.png" width="60">
+               </td>
+            </tr>
+         </table>
+      </td>
+      <td>
+         <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" />
+      </td>
+   </tr>
 </table>
 
-<table style="width:100%">
-  <tr>
-    <td text-align="left">Front-End Development                                </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="logo-200px/html5.png" width="25">
-      <img src="logo-200px/css.png" width="25">
-      <img src="logo-200px/vuejs.png" width="37">
-      <img src="logo-200px/bootstrap4.png" width="30">
-      <img src="logo-200px/tailwindcss.png" width="50">
-    </td>
-  </tr>
-</table>
 
-<table style="width:100%">
-  <tr text-align="left">
-    <td>Other Tools                                          </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="logo-200px/vscode.png" width="25">
-      <img src="logo-200px/github.png" width="85">
-      <img src="logo-200px/git.png" width="60">
-    </td>
-  </tr>
-</table>
