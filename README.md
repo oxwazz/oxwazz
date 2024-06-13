@@ -19,30 +19,30 @@ I'm a **Front-End Developer** 🚀 from Indonesia, passionate about **learning a
 
 ###### Programming Language
 [<img height="25" width="25" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />](# "TypeScript")
-<img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/kotlin/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/dart/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/go/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/php/gray/darkgray" />
+[<img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray/darkgray" />](# "JavaScript")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/kotlin/gray/darkgray" />](# "Kotlin")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/dart/gray/darkgray" />](# "Dart")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/go/gray/darkgray" />](# "Go")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/php/gray/darkgray" />](# "PHP")
 
 ###### Front-End Development
 [<img height="25" width="25" src="https://cdn.simpleicons.org/react/gray/darkgray" />](# "React")
-<img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/nuxtdotjs/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/mui/gray/darkgray" />
+[<img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/gray/darkgray" />](# "Next.js")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs/gray/darkgray" />](# "Vue.js")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/nuxtdotjs/gray/darkgray" />](# "Nuxt.js")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray/darkgray" />](# "HTML 5")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray/darkgray" />](# "CSS 3")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/gray/darkgray" />](# "Tailwind")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/gray/darkgray" />](# "Bootstrap")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/mui/gray/darkgray" />](# "Material UI")
 
 ###### Other Tools
 [<img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/gray/darkgray" />](# "Visual Studio Code")
-<img height="25" width="25" src="https://cdn.simpleicons.org/jetbrains/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/gnometerminal/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/git/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/github/gray/darkgray" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/gitlab/gray/darkgray" />
+[<img height="25" width="25" src="https://cdn.simpleicons.org/jetbrains/gray/darkgray" />](# "JetBrains")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/gnometerminal/gray/darkgray" />](# "Terminal")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/git/gray/darkgray" />](# "Git")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/github/gray/darkgray" />](# "Github")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/gitlab/gray/darkgray" />](# "Gitlab")
 
 
 
