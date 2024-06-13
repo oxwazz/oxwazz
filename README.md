@@ -10,14 +10,15 @@ I'm a **Front-End Developer** 🚀 from Indonesia, passionate about **learning a
 
 <br>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="40%" />
 </a>
+
 
 🌱 ***Currently (and future) learning:*** 🌱
 
 ###### Programming Language
-[<img height="25" width="25" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />](## "TypeScript")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />](# "TypeScript")
 <img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray/darkgray" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/kotlin/gray/darkgray" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/dart/gray/darkgray" />
@@ -25,7 +26,7 @@ I'm a **Front-End Developer** 🚀 from Indonesia, passionate about **learning a
 <img height="25" width="25" src="https://cdn.simpleicons.org/php/gray/darkgray" />
 
 ###### Front-End Development
-[<img height="25" width="25" src="https://cdn.simpleicons.org/react/gray/darkgray" />](## "React")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/react/gray/darkgray" />](# "React")
 <img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/gray/darkgray" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs/gray/darkgray" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/nuxtdotjs/gray/darkgray" />
@@ -36,7 +37,7 @@ I'm a **Front-End Developer** 🚀 from Indonesia, passionate about **learning a
 <img height="25" width="25" src="https://cdn.simpleicons.org/mui/gray/darkgray" />
 
 ###### Other Tools
-[<img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/gray/darkgray" />](## "Visual Studio Code")
+[<img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/gray/darkgray" />](# "Visual Studio Code")
 <img height="25" width="25" src="https://cdn.simpleicons.org/jetbrains/gray/darkgray" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/gnometerminal/gray/darkgray" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/git/gray/darkgray" />
