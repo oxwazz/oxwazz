@@ -22,9 +22,7 @@ I'm a **Front-End Developer** 🚀 from Indonesia, passionate about **learning a
             </tr>
             <tr>
                <td>
-                 <a href="https://www.typescriptlang.org/" target="_blank">
                    <img height="25" width="25" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />
-                 </a>
                   <img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray/darkgray" />
                   <img height="25" width="25" src="https://cdn.simpleicons.org/kotlin/gray/darkgray" />
                   <img height="25" width="25" src="https://cdn.simpleicons.org/dart/gray/darkgray" />
