@@ -8,8 +8,6 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oxwazz/)](https://www.linkedin.com/in/oxwazz/)
   [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/oxwazz)](https://x.com/oxwazz)
 
-  
-  ===============
   <br>
   
   🌱 <b><i>Currently (and future) learning:</i></b> 🌱
