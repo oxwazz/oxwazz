@@ -1,6 +1,6 @@
 ## Hi, I'm [Muhammad Rahmahalim](https://github.com/oxwazz "Helloooo Halim is here 😸😸") <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   
-I'm a **Front-End Developer** 🚀 from Indonesia, passionate about **learning and working with new tech** 💻😁. I love building interesting and amazing products that serve a great deal of purpose.
+I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and working with new tech** 💻😁. I love building interesting and amazing products that serve a great deal of purpose.
   
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/oxwazz/ "Halim LeetCode")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammad.rahmahalim@gmail.com "Halim Gmail")
