@@ -22,7 +22,12 @@
               </tr>
               <tr>
                  <td>
-                    <img src="logo-200px/javascript.png" width="30">
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/TypeScript/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/kotlin/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/dart/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/go/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/php/gray/white" />
                  </td>
               </tr>
            </table>
@@ -34,11 +39,15 @@
               </tr>
               <tr>
                  <td>
-                    <img src="logo-200px/html5.png" width="25">
-                    <img src="logo-200px/css.png" width="25">
-                    <img src="logo-200px/vuejs.png" width="37">
-                    <img src="logo-200px/bootstrap4.png" width="30">
-                    <img src="logo-200px/tailwindcss.png" width="50">
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/react/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/nuxtdotjs/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/mui/gray/white" />
                  </td>
               </tr>
            </table>
@@ -50,9 +59,12 @@
               </tr>
               <tr>
                  <td>
-                    <img src="logo-200px/vscode.png" width="25">
-                    <img src="logo-200px/github.png" width="85">
-                    <img src="logo-200px/git.png" width="60">
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/jetbrains/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/gnometerminal/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/git/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/github/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/gitlab/gray/white" />
                  </td>
               </tr>
            </table>
