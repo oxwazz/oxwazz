@@ -22,12 +22,12 @@
               </tr>
               <tr>
                  <td>
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/TypeScript/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/kotlin/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/dart/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/go/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/php/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/javascript/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/kotlin/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/dart/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/go/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/php/gray/darkgray" />
                  </td>
               </tr>
            </table>
@@ -39,15 +39,15 @@
               </tr>
               <tr>
                  <td>
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/react/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/nuxtdotjs/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/mui/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/react/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/vuedotjs/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/nuxtdotjs/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/html5/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/css3/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/mui/gray/darkgray" />
                  </td>
               </tr>
            </table>
@@ -59,12 +59,12 @@
               </tr>
               <tr>
                  <td>
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/jetbrains/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/gnometerminal/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/git/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/github/gray/white" />
-                    <img height="25" width="25" src="https://cdn.simpleicons.org/gitlab/gray/white" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/jetbrains/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/gnometerminal/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/git/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/github/gray/darkgray" />
+                    <img height="25" width="25" src="https://cdn.simpleicons.org/gitlab/gray/darkgray" />
                  </td>
               </tr>
            </table>
