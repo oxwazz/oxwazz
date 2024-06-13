@@ -1,16 +1,16 @@
   ## Hi, I'm [Muhammad Rahmahalim](https://github.com/oxwazz) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   
-  I'm a **Front-End Developer** 🚀 from Indonesia. I'm a **Tech Enthusiast** 💻 😁 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
+  I'm a **Front-End Developer** 🚀 from Indonesia, passionate about **learning and working with new tech** 💻😁. I love building interesting and amazing products that serve a great deal of purpose.
   
-  [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/oxwazz/)](https://leetcode.com/u/oxwazz/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rahmahalim@gmail.com)](mailto:muhammad.rahmahalim@gmail.com)
-  [![Website Badge](https://img.shields.io/badge/Personal%20Blog-32a852?style=flat-square&link=https://oxwazz.com/)](https://oxwazz.com/)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oxwazz/)](https://www.linkedin.com/in/oxwazz/)
-  [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/oxwazz)](https://x.com/oxwazz)
+  [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/oxwazz/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammad.rahmahalim@gmail.com)
+  [![Website Badge](https://img.shields.io/badge/Personal%20Blog-32a852?style=flat-square)](https://oxwazz.com/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/)
+  [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz)
 
   <br>
   
-  🌱 <b><i>Currently (and future) learning:</i></b> 🌱
+  🌱 ***Currently (and future) learning:*** 🌱
   <table>
      <tr>
         <td style="vertical-align:top">
