@@ -4,9 +4,9 @@
   
   [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/oxwazz/)](https://leetcode.com/u/oxwazz/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rahmahalim@gmail.com)](mailto:muhammad.rahmahalim@gmail.com)
-  [![Website Badge](https://img.shields.io/badge/Personal%20Blog-000000?style=flat-square&link=https://oxwazz.com/)](https://oxwazz.com/)
+  [![Website Badge](https://img.shields.io/badge/Personal%20Blog-32a852?style=flat-square&link=https://oxwazz.com/)](https://oxwazz.com/)
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oxwazz/)](https://www.linkedin.com/in/oxwazz/)
-  [![LinkedIn Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/oxwazz)](https://x.com/oxwazz)
+  [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/oxwazz)](https://x.com/oxwazz)
 
   
   ===============
