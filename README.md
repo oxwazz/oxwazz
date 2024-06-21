@@ -14,6 +14,13 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
   <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="40%" />
 </a>
 
+<a href="#">
+  <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="40%" />
+</a>
+
+<br>
+<br>
+
 
 🌱 ***Currently (and future) learning:*** 🌱
 
@@ -43,6 +50,12 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [<img height="25" width="25" src="https://cdn.simpleicons.org/git/gray/darkgray" />](# "Git")
 [<img height="25" width="25" src="https://cdn.simpleicons.org/github/gray/darkgray" />](# "Github")
 [<img height="25" width="25" src="https://cdn.simpleicons.org/gitlab/gray/darkgray" />](# "Gitlab")
+
+
+
+
+
+
 
 
 
