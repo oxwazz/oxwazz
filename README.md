@@ -15,7 +15,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 </a>
 
 <a href="#">
-  <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="55%" />
+  <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="58%" />
 </a>
 
 
