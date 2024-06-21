@@ -2,11 +2,11 @@
   
 I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and working with new tech** 💻😁. I love building interesting and amazing products that serve a great deal of purpose.
   
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-e59013?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/oxwazz/ "Halim LeetCode")
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammad.rahmahalim@gmail.com "Halim Gmail")
-[![Personal Blog Badge](https://img.shields.io/badge/Personal%20Blog-32a852?style=flat-square&logo=astro&logoColor=white)](https://oxwazz.com/ "Halim Personal Blog")
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/ "Halim Linkedin")
-[![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz "Halim X")
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-e59013?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/oxwazz/ "Halim's LeetCode")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammad.rahmahalim@gmail.com "Halim's Gmail")
+[![Personal Blog Badge](https://img.shields.io/badge/Personal%20Blog-32a852?style=flat-square&logo=astro&logoColor=white)](https://oxwazz.com/ "Halim's Personal Blog")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/ "Halim's Linkedin")
+[![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz "Halim's X")
 
 <br>
 
