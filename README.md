@@ -18,11 +18,9 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
   <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="40%" />
 </a>
 
-<br>
-<br>
 
 
-🌱 ***Currently (and future) learning:*** 🌱
+<!-- 🌱 ***Currently (and future) learning:*** 🌱 -->
 
 ###### Programming Language
 [<img height="23" width="23" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />](# "TypeScript")
