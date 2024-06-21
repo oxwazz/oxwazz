@@ -21,7 +21,6 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 
 
 <!-- 🌱 ***Currently (and future) learning:*** 🌱 -->
----
 
 ###### Programming Language
 [<img height="23" width="23" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />](# "TypeScript")
