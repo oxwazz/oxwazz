@@ -8,6 +8,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/ "Halim's Linkedin")
 [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz "Halim's X")
 
+[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
 <br>
 
 <a href="#">
@@ -42,7 +43,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [<img height="23" width="23" src="https://cdn.simpleicons.org/mui/gray/darkgray" />](# "Material UI")
 
 ###### Other Tools
-[<img height="23" width="23" src="https://cdn.simpleicons.org/visualstudiocode/gray/darkgray" />](# "Visual Studio Code")
+<!-- [<img height="23" width="23" src="https://cdn.simpleicons.org/visualstudiocode/gray/darkgray" />](# "Visual Studio Code") -->
 [<img height="23" width="23" src="https://cdn.simpleicons.org/jetbrains/gray/darkgray" />](# "JetBrains")
 [<img height="23" width="23" src="https://cdn.simpleicons.org/gnometerminal/gray/darkgray" />](# "Terminal")
 [<img height="23" width="23" src="https://cdn.simpleicons.org/git/gray/darkgray" />](# "Git")
