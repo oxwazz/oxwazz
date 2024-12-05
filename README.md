@@ -12,7 +12,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 <br>
 
 <a href="#">
-  <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="49.3%" />
+  <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="49%" />
 </a>
 
 My Recent OSS Contributions
@@ -20,13 +20,13 @@ My Recent OSS Contributions
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz">
     <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz">
-    <img alt="github oss contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz"  width="49.3%">
+    <img alt="github oss contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz"  width="49%">
   </picture>
 </a>
 <sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
 
 <a href="#">
-  <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="49.3%" />
+  <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="49%" />
 </a>
 
 
