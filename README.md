@@ -18,6 +18,9 @@ My Recent OSS Contributions
 <a href="#">
   <img src="https://github-contributions-widget.oxwazz.com/oxwazz" width="50%" />
 </a>
+
+_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_
+
 <a href="#">
   <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="58%" />
 </a>
