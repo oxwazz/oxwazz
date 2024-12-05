@@ -14,7 +14,10 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 <a href="#">
   <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="40%" />
 </a>
-
+My Recent OSS Contributions
+<a href="#">
+  <img src="https://github_contributions_widget.muhammad-rahmahalim.workers.dev/oxwazz" width="48%" />
+</a>
 <a href="#">
   <img src="https://leetcard.jacoblin.cool/oxwazz?theme=light&font=Roboto" width="58%" />
 </a>
