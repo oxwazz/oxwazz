@@ -23,7 +23,7 @@ My Recent OSS Contributions
     <img alt="github oss contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz"  width="50%">
   </picture>
 </a>
-
+<br>
 _generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_
 
 <a href="#">
