@@ -31,37 +31,6 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 
 
 
-<!-- 🌱 ***Currently (and future) learning:*** 🌱 -->
-
-###### Programming Language
-[<img height="23" width="23" src="https://cdn.simpleicons.org/TypeScript/gray/darkgray" />](# "TypeScript")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/javascript/gray/darkgray" />](# "JavaScript")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/kotlin/gray/darkgray" />](# "Kotlin")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/dart/gray/darkgray" />](# "Dart")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/go/gray/darkgray" />](# "Go")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/php/gray/darkgray" />](# "PHP")
-
-###### Front-End Development
-[<img height="23" width="23" src="https://cdn.simpleicons.org/react/gray/darkgray" />](# "React")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/nextdotjs/gray/darkgray" />](# "Next.js")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/vuedotjs/gray/darkgray" />](# "Vue.js")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/nuxtdotjs/gray/darkgray" />](# "Nuxt.js")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/html5/gray/darkgray" />](# "HTML 5")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/css3/gray/darkgray" />](# "CSS 3")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/tailwindcss/gray/darkgray" />](# "Tailwind")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/bootstrap/gray/darkgray" />](# "Bootstrap")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/mui/gray/darkgray" />](# "Material UI")
-
-###### Other Tools
-<!-- [<img height="23" width="23" src="https://cdn.simpleicons.org/visualstudiocode/gray/darkgray" />](# "Visual Studio Code") -->
-[<img height="23" width="23" src="https://cdn.simpleicons.org/jetbrains/gray/darkgray" />](# "JetBrains")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/gnometerminal/gray/darkgray" />](# "Terminal")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/git/gray/darkgray" />](# "Git")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/github/gray/darkgray" />](# "Github")
-[<img height="23" width="23" src="https://cdn.simpleicons.org/gitlab/gray/darkgray" />](# "Gitlab")
-
-
-
 
 
 
