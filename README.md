@@ -15,14 +15,14 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
   <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="49%" />
 </a>
 
-My Recent OSS Contributions
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz">
-    <img alt="github oss contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz"  width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=1">
+    <img alt="github oss contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=1"  width="49%">
   </picture>
 </a>
+
 <sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
 
 <a href="#">
