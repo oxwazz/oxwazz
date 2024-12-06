@@ -17,9 +17,9 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=1">
-    <img alt="github oss contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=1"  width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=2">
+    <img alt="github oss contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh=2"  width="49%">
   </picture>
 </a>
 
