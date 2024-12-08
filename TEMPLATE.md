@@ -39,7 +39,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
   </picture>
 </a>
 
-[//]: # (<sup>_generated with [oxwazz/github_contributions_widget]&#40;https://github.com/oxwazz/github_contributions_widget&#41;_</sup>)
+<sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
 
 <a href="#">
   <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache={{ NOW }}&theme=light&font=Roboto" width="61%" />
