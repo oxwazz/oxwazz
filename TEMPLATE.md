@@ -28,21 +28,21 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 <br>
 
 <a href="#">
-  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="38%" />
+  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="40%" />
 </a>
 
 <a href="#">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}">
     <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}">
-    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}"  width="61%">
+    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}"  width="59%">
   </picture>
 </a>
 
 [//]: # (<sup>_generated with [oxwazz/github_contributions_widget]&#40;https://github.com/oxwazz/github_contributions_widget&#41;_</sup>)
 
 <a href="#">
-  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache={{ NOW }}&theme=light&font=Roboto" width="61%" />
+  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache={{ NOW }}&theme=light&font=Roboto" width="59%" />
 </a>
 
 
