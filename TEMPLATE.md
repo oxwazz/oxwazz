@@ -2,10 +2,13 @@
 // {{ TEMPLATE: }}
 module.exports = {
   CUSTOM_VARIABLES: {
-    modifyVariables: function(repo, moment, user) {
-      repo.NOW = Date.now()
-      return repo
-    },
+    type: 'customQuery',
+    loop: false,
+    query: async (octokit, moment, user) => {
+      return {
+        NOW: Date.now(),
+      }
+    }
   },
 }
 // {{ :TEMPLATE }}
