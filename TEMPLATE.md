@@ -28,7 +28,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 <br>
 
 <a href="#">
-  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="36%" />
+  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="34%" />
 </a>
 
 <a href="#">
@@ -38,6 +38,9 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
     <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}"  width="63%">
   </picture>
 </a>
+
+<br/>
+<br/>
 
 [//]: # (<sup>_generated with [oxwazz/github_contributions_widget]&#40;https://github.com/oxwazz/github_contributions_widget&#41;_</sup>)
 
