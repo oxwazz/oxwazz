@@ -10,25 +10,25 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/ "Halim's Linkedin")
 [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz "Halim's X")
 
-[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1733642246453&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
+[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1733642723230&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
 <br>
 
 <a href="#">
-  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="38%" />
+  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="40%" />
 </a>
 
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733642246453">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733642246453">
-    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733642246453"  width="61%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733642723230">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733642723230">
+    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733642723230"  width="59%">
   </picture>
 </a>
 
 [//]: # (<sup>_generated with [oxwazz/github_contributions_widget]&#40;https://github.com/oxwazz/github_contributions_widget&#41;_</sup>)
 
 <a href="#">
-  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1733642246453&theme=light&font=Roboto" width="61%" />
+  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1733642723230&theme=light&font=Roboto" width="59%" />
 </a>
 
 
