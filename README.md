@@ -10,7 +10,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/ "Halim's Linkedin")
 [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz "Halim's X")
 
-[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1733626972883&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
+[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1733631182412&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
 <br>
 
 <a href="#">
@@ -19,16 +19,16 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733626972883">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733626972883">
-    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733626972883"  width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733631182412">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733631182412">
+    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733631182412"  width="49%">
   </picture>
 </a>
 
 <sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
 
 <a href="#">
-  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1733626972883&theme=light&font=Roboto" width="49%" />
+  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1733631182412&theme=light&font=Roboto" width="49%" />
 </a>
 
 
