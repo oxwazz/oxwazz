@@ -28,7 +28,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 <br>
 
 <a href="#">
-  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="44%" />
+  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="44.5%" />
 </a>
 
 <a href="#">
