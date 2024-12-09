@@ -21,7 +21,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733708320164">
     <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733708320164">
-    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733708320164"  width="55%">
+    <img alt="oxwazz github open-source contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1733708320164"  width="55%">
   </picture>
 </a>
 
