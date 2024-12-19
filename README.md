@@ -10,7 +10,7 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/ "Halim's Linkedin")
 [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz "Halim's X")
 
-[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1734651586904&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
+[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1734651678090&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
 <br>
 
 [//]:<a href="#">
@@ -19,20 +19,20 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1734651586904">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1734651586904">
-    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1734651586904"  width="55%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1734651678090">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1734651678090">
+    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1734651678090"  width="55%">
   </picture>
 </a>
 
 [//]: # (<sup>_generated with [oxwazz/github_contributions_widget]&#40;https://github.com/oxwazz/github_contributions_widget&#41;_</sup>)
 
 <a href="#">
-  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1734651586904&theme=light&font=Roboto" width="55%" />
+  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1734651678090&theme=light&font=Roboto" width="55%" />
 </a>
 
-![ddd](https://9e60-2001-448a-50a0-854c-9ac6-f3cb-33af-4a98.ngrok-free.app/test-svg?tt=4)
-![ddd](https://9e60-2001-448a-50a0-854c-9ac6-f3cb-33af-4a98.ngrok-free.app/test-svg?tt=4)
+![ddd](https://9e60-2001-448a-50a0-854c-9ac6-f3cb-33af-4a98.ngrok-free.app/test-svg?tt=5)
+![ddd](https://9e60-2001-448a-50a0-854c-9ac6-f3cb-33af-4a98.ngrok-free.app/test-svg?tt=5)
 
 
 
