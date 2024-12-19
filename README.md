@@ -13,9 +13,9 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1734650669906&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
 <br>
 
-<a href="#">
-  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="44.5%" />
-</a>
+[//]:<a href="#">
+  [//]:<img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="44.5%" />
+[//]:</a>
 
 <a href="#">
   <picture>
