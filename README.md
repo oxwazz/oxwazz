@@ -13,9 +13,9 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1734571537993&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
 <br>
 
-<a href="#">
-  <img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="44.5%" />
-</a>
+[//]:<a href="//">
+  [//]:<img alt="cat" align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="44.5%" />
+[//]:a>
 
 <a href="#">
   <picture>
@@ -30,6 +30,9 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 <a href="#">
   <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1734571537993&theme=light&font=Roboto" width="55%" />
 </a>
+
+![sdf](https://f798-2001-448a-50a0-854c-9ac6-f3cb-33af-4a98.ngrok-free.app/test-svg?r=1)
+![sdf](https://f798-2001-448a-50a0-854c-9ac6-f3cb-33af-4a98.ngrok-free.app/test-svg?r=1)
 
 
 
