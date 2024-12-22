@@ -39,8 +39,6 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
   </picture>
 </a>
 
-<sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
-
 <a href="#">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}&theme=dark">
@@ -48,9 +46,6 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
     <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}">
   </picture>
 </a>
-
-<sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
-
 
 <a href="#">
   <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache={{ NOW }}&theme=light&font=Roboto" width="55%" />
