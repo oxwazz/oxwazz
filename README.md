@@ -9,8 +9,9 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 [![Personal Blog Badge](https://img.shields.io/badge/Personal%20Blog-32a852?style=flat-square&logo=astro&logoColor=white)](https://oxwazz.com/ "Halim's Personal Blog")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oxwazz/ "Halim's Linkedin")
 [![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oxwazz "Halim's X")
+[![Youtube Badge](https://img.shields.io/badge/Youtube-d14836?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@oxwazz "Halim's Youtube")
 
-[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1740532961431&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
+[![wakatime](https://wakatime.com/badge/user/018d78a5-e840-49c7-9f5d-e91c07733228.svg?refresh-cache=1740563688269&style=flat-square)](https://wakatime.com/@018d78a5-e840-49c7-9f5d-e91c07733228)
 <br>
 
 [//]:<a href="#">
@@ -19,16 +20,16 @@ I'm a **Software Engineer** 🚀 from Indonesia, passionate about **learning and
 
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1740532961431&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1740532961431">
-    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1740532961431">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1740563688269&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1740563688269">
+    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1740563688269">
   </picture>
 </a>
 
 <sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
 
 <a href="#">
-  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1740532961431&theme=light&font=Roboto" width="55%" />
+  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1740563688269&theme=light&font=Roboto" width="55%" />
 </a>
 
 
