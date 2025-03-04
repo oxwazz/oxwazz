@@ -32,9 +32,9 @@ I'm from **Indonesia** 🇮🇩 and passionate about **learning and working with
 
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}">
-    <img alt="oxwazz github open-source contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}&states=MERGED&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}&states=MERGED">
+    <img alt="oxwazz github open-source contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache={{ NOW }}&states=MERGED">
   </picture>
 </a>
 
