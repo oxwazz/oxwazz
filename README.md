@@ -18,15 +18,15 @@ I'm from **Indonesia** 🇮🇩 and passionate about **learning and working with
 
 <a href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1782445885918&states=MERGED&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1782445885918&states=MERGED">
-    <img alt="oxwazz github open-source contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1782445885918&states=MERGED">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1782531270708&states=MERGED&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1782531270708&states=MERGED">
+    <img alt="oxwazz github open-source contributions" src="https://github-contributions-widget.oxwazz.com/oxwazz?refresh-cache=1782531270708&states=MERGED">
   </picture>
 </a>
 
 <sup>_generated with [oxwazz/github_contributions_widget](https://github.com/oxwazz/github_contributions_widget)_</sup>
 
 [//]:<a href="#">
-[//]:  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1782445885918&theme=light&font=Roboto" width="55%" />
+[//]:  <img alt="oxwazz leetcode stats" src="https://leetcard.jacoblin.cool/oxwazz?refresh-cache=1782531270708&theme=light&font=Roboto" width="55%" />
 [//]:</a>
 
